@@ -43,17 +43,17 @@
 
 .tooltip:nth-child(2) {
 	top: 50%;
-	left: 10%;
+	left: 20%;
 }
 
 .tooltip:nth-child(3) {
-	top: 40%;
-	left: 50%;
+	top: 45%;
+	left: 55%;
 }
 
 .tooltip:nth-child(4) {
-	top: 70%;
-	left: 70%;
+	top: 75%;
+	left: 75%;
 }
 
 /* Tooltip */
